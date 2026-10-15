@@ -1,0 +1,22 @@
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+*.bd-journal
+*.db-wal
+*.db-shm
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

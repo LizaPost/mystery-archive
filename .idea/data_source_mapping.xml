@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/mystery-archive/import_data.sql" value="d7ed2bb0-e456-4d83-b6a8-6f14136c2afa" />
+    <file url="file://$PROJECT_DIR$/mystery-archive/indexes.sql" value="d7ed2bb0-e456-4d83-b6a8-6f14136c2afa" />
+    <file url="file://$PROJECT_DIR$/mystery-archive/queries.sql" value="d7ed2bb0-e456-4d83-b6a8-6f14136c2afa" />
+    <file url="file://$PROJECT_DIR$/mystery-archive/schema.sql" value="d7ed2bb0-e456-4d83-b6a8-6f14136c2afa" />
+    <file url="file://$PROJECT_DIR$/mystery-archive/setup.sql" value="d7ed2bb0-e456-4d83-b6a8-6f14136c2afa" />
+    <file url="file://$PROJECT_DIR$/mystery-archive/views.sql" value="d7ed2bb0-e456-4d83-b6a8-6f14136c2afa" />
+  </component>
+</project>
